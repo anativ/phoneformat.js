@@ -1,14 +1,11 @@
-#PhoneFormat.js
+#PhoneFormat.js For React Native
 
-####**A javascript phone formatter**
+####**A javascript phone formatter for React Native**
 
 ##Install
 
-### via Bower
-`bower install phoneformat.js`
-
 ### via NPM
-`npm install phoneformat.js`
+`npm install phoneformat-react-native`
 
 All files for usage are in the /dist directory.
 
@@ -71,11 +68,5 @@ If this is causing you any headaches, please follow the instructions below to up
 	- lib/phone-format-interface.js
 - Submit a PR ;)
 
-##Questions?
-**Ping us via Twitter**
 
-- [@sturdynut](http://twitter.com/sturdynut)
-- [@albeebe](http://twitter.com/albeebe)
-
-
-This project was created by [@albeebe](http://twitter.com/albeebe).
+Based on PhoneFormater.js by [@albeebe](http://twitter.com/albeebe).

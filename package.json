@@ -1,5 +1,5 @@
 {
-  "name": "phoneformat.js",
+  "name": "phoneformat-react-native",
   "version": "1.0.3",
   "main": "dist/phone-format-exports.js",
   "devDependencies": {
