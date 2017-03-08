@@ -94,7 +94,7 @@
     copy: {
       main: {
         src: 'dist/phone-format-amd.js',
-        dest: 'tests/phone-format-amd.js',
+        dest: 'tests/phone-format-amd.js'
       }
     }
 
