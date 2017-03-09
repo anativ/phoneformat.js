@@ -42,7 +42,7 @@ All files for usage are in the /dist directory.
 
 More often then not PhoneFormat.js will NOT be using the [latest version](https://code.google.com/p/libphonenumber/source/browse/#svn%2Ftrunk%2Fjavascript%2Fi18n%2Fphonenumbers) of libphonenumber.
 
-It was last synced October 19, 2015.
+It was last synced March 08, 2017.
 
 If this is causing you any headaches, please follow the instructions below to update the source files in /lib.
 
